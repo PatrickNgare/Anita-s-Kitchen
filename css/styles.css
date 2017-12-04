@@ -1,0 +1,22 @@
+.text_float{
+	float: right;
+}
+.imge{
+	float: left;
+
+}
+.jumbotron {
+   margin-bottom: 0px;
+   background-image: url(../img/landing.jpg);
+   background-position: 0% 25%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   color: white;
+   text-shadow: black 0.3em 0.3em 0.3em;
+}
+.lastly{
+	background-color: #F15A29;
+	height: 40vh;
+	justify-content:center;
+	text-align: center;
+	padding: 200px ;
