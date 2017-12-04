@@ -7,6 +7,9 @@
 	display: inline;
 	clear: both;
 }
-.dip{
+#row1{
 	display: inline;
+}
+.jumbotron{
+	background-image: url("../img/landing.jpg");
 }
